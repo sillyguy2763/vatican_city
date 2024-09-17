@@ -1,0 +1,28 @@
+h1-6 {
+  color:black;
+  text-align:center;
+  font-fanily:"Comic Sans MS"
+}
+
+body {
+  font-family:"Comic Sans MS"
+  text-align:center;
+}
+
+#box1 {
+  height: 400;
+  width: 800;
+  border-style: solid;
+  border-color: yellow;
+  margin:25px;
+  padding:10px;
+}
+
+#box2 {
+  height: 300;
+  width: 300;
+  border-style: solid;
+  border-color: yellow;
+  margin:25px
+  padding:10px;
+}

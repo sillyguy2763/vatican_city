@@ -13,6 +13,7 @@ body {
   height: 400;
   width: 800;
   border-style: solid;
+  border-width: thick;
   border-color: #feff8a;
   margin:25px;
   padding:10px;
@@ -20,8 +21,9 @@ body {
 
 #box2 {
   height: 300;
-  width: 300;
+  width: 450;
   border-style: solid;
+  border-width: medium;
   border-color: yellow;
   margin:25px
   padding:10px;
